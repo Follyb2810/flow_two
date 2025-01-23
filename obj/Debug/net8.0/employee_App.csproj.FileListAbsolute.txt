@@ -1,0 +1,7 @@
+C:\Users\follyb\Desktop\folly docs\Endpoint\employee_App\obj\Debug\net8.0\employee_App.csproj.AssemblyReference.cache
+C:\Users\follyb\Desktop\folly docs\Endpoint\employee_App\obj\Debug\net8.0\employee_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\Endpoint\employee_App\obj\Debug\net8.0\employee_App.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\Endpoint\employee_App\obj\Debug\net8.0\employee_App.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\Endpoint\employee_App\obj\Debug\net8.0\employee_App.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\Endpoint\employee_App\obj\Debug\net8.0\employee_App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\Endpoint\employee_App\obj\Debug\net8.0\employee_App.MvcApplicationPartsAssemblyInfo.cache
